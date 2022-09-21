@@ -9,5 +9,6 @@ Here's a compilation of my R Programming projects
 
 ## Project 2 - Drunken Datetimes in Ames, Iowa
 * Explored breathalyser test data collected in Ames, Iowa, USA
+* Manipulated date and time data
 * Analyzed the relationship between college football games and drink-driving rates
 * Visualised findings after exploration
